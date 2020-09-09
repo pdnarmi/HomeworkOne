@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Determines header content format */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,15 +38,27 @@ body {
     margin-left: 25px;
 }
 
+
+
+
+/* Determines link text format */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+
+
+
+/* Format for all paragraph text */
 p {
     font-size: 16px;
 }
 
+
+
+
+/* Format for main page image */
 .hero {
     height: 800px;
     width: 100%;
@@ -55,22 +68,38 @@ p {
     background-position: center;
 }
 
+
+
+
+/* Floats image content for images floated in search engine optimization and social media marketing */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+
+
+
+/* Floats image content for online reputation management left */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+
+
+
+/* Formats main content*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+
+
+
+/* Formats secondary content */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +147,10 @@ p {
     font-size: 36px;
 }
 
+
+
+
+/* Formats footer content */
 .footer {
     padding: 30px;
     clear: both;
